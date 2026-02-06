@@ -1,13 +1,13 @@
 # EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
 
 
-**DATE:**
+**DATE: 06:02:2026**
 
-**NAME:**
+**NAME: ASWIN ANTONY S**
 
-**ROLL NO:**
+**ROLL NO: 212224220014**
 
-**DEPARTMENT:**
+**DEPARTMENT: B.tech-IT**
 
 ## Aim
 
@@ -103,6 +103,14 @@ With its power-efficient design, built-in LoRaWAN support, and flexible communic
 ```
 
 ## OUTPUT
+
+# LED OFF
+
+![WhatsApp Image 2026-02-02 at 4 00 36 PM (1)](https://github.com/user-attachments/assets/2187c8cc-64ae-4538-8a69-2de062639d7d)
+
+# LED ON
+
+![WhatsApp Image 2026-02-02 at 4 00 36 PM](https://github.com/user-attachments/assets/a7d04c51-2038-4fd6-95b8-a2f7c0a16774)
 
 ## Result
 
